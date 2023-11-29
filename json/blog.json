@@ -1,0 +1,25 @@
+{
+    "blog":[
+        {
+           
+            "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit Ultrices.",
+            "photo":"img/photo/Ellipse 7.svg",
+            "name":"David lee",
+            "email":"davidlee@"
+        },
+        {
+            
+            "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit Ultrices.",
+            "photo":"img/photo/Ellipse 7 (1).svg",
+            "name":"Ravi shankor",
+            "email":"ravishankor@"
+        },
+        {
+            
+            "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit Ultrices.",
+            "photo":"img/photo/Ellipse 7 (2).svg",
+            "name":"Thomas lew",
+            "email":"thomaslew@"
+        }
+    ]
+}
